@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+*.~lock.datosT1.csv#
+*.tex
+*.png
+*.pdf
