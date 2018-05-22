@@ -246,4 +246,7 @@ mi,
 una,
 uno,
 unas,
-unos
+unos,
+será,
+sera,
+todo
